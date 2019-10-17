@@ -5,11 +5,11 @@
     },
     {
         "ParameterKey": "EmailAddress",
-        "ParameterValue": "email@yourdomain.com"
+        "ParameterValue": "ameighta@amazon.com"
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "qs-wrkshp"
     },
     {
         "ParameterKey": "RemoteAccessCIDR",
